@@ -1,0 +1,12 @@
+B:\Projekte\ZatFunctions\Functions\bin\x64\Debug\Functions.dll
+B:\Projekte\ZatFunctions\Functions\bin\x64\Debug\Functions.pdb
+B:\Projekte\ZatFunctions\Functions\obj\x64\Debug\Functions.csproj.AssemblyReference.cache
+B:\Projekte\ZatFunctions\Functions\obj\x64\Debug\Functions.csproj.CoreCompileInputs.cache
+B:\Projekte\ZatFunctions\Functions\obj\x64\Debug\Functions.dll
+B:\Projekte\ZatFunctions\Functions\obj\x64\Debug\Functions.pdb
+B:\Git\Functions\Functions\bin\x64\Debug\Functions.dll
+B:\Git\Functions\Functions\bin\x64\Debug\Functions.pdb
+B:\Git\Functions\Functions\obj\x64\Debug\Functions.csproj.AssemblyReference.cache
+B:\Git\Functions\Functions\obj\x64\Debug\Functions.csproj.CoreCompileInputs.cache
+B:\Git\Functions\Functions\obj\x64\Debug\Functions.dll
+B:\Git\Functions\Functions\obj\x64\Debug\Functions.pdb

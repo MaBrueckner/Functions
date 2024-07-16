@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\Projekte\\ZatFunctions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE399AC-9891-4A77-9455-36FC6957A34C}|Functions\\Functions.csproj|b:\\projekte\\zatfunctions\\functions\\zat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE399AC-9891-4A77-9455-36FC6957A34C}|Functions\\Functions.csproj|solutionrelative:functions\\zat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZAT.cs",
+              "DocumentMoniker": "B:\\Projekte\\ZatFunctions\\Functions\\ZAT.cs",
+              "RelativeDocumentMoniker": "Functions\\ZAT.cs",
+              "ToolTip": "B:\\Projekte\\ZatFunctions\\Functions\\ZAT.cs",
+              "RelativeToolTip": "Functions\\ZAT.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAmwL4BAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:03:29.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
